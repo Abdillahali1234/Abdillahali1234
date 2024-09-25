@@ -1,22 +1,103 @@
 <h1 align="center">Hi 👋, I'm Abdullah Ali Sapry</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">A Passionate Full-Stack Developer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdillahali1234&label=Profile%20views&color=0e75b6&style=flat" alt="abdillahali1234" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdillahali1234" alt="abdillahali1234" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/abdullahali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdullahali" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdillahali1234&label=Profile%20Views&color=0e75b6&style=flat" alt="abdillahali1234" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
- <a href="https://mantine.dev/" target="_blank" rel="noreferrer"><svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 256 258"><path fill="#339AF0" d="M256 128.661C256 57.604 198.693 0 128.002 0C57.307 0 0 57.604 0 128.661c0 71.056 57.307 128.662 128 128.662s128-57.606 128-128.662Z"/><path fill="#FFF" d="M110.576 64.111a9.707 9.707 0 0 1 7.227 1.82a79.107 79.107 0 0 1 11.68 10.685l.874.993h27.61c5.384 0 9.744 4.374 9.744 9.777c0 5.283-4.176 9.583-9.388 9.771l-.357.007h-15.25a77.617 77.617 0 0 1 6.426 31.087a77.617 77.617 0 0 1-5.979 30.03l-.448 1.054h15.242c5.386 0 9.747 4.376 9.747 9.778c0 5.282-4.178 9.584-9.39 9.772l-.357.007H130.34a79.11 79.11 0 0 1-12.546 11.666a9.715 9.715 0 0 1-13.63-2.027a9.805 9.805 0 0 1-1.623-3.451a9.805 9.805 0 0 1 1.096-7.409a9.696 9.696 0 0 1 2.551-2.82c14.91-11.107 23.469-28.09 23.469-46.602c0-18.511-8.56-35.494-23.469-46.602a9.693 9.693 0 0 1-2.554-2.82a9.842 9.842 0 0 1 .287-10.521l.243-.346a9.813 9.813 0 0 1 6.411-3.849Zm-1.755 47.41a14.435 14.435 0 0 1 4.728 3.258a14.62 14.62 0 0 1 3.105 4.857a14.745 14.745 0 0 1 .995 5.696a14.68 14.68 0 0 1-4.35 10.096a14.356 14.356 0 0 1-10.084 4.152a14.356 14.356 0 0 1-10.088-4.152a14.68 14.68 0 0 1-4.349-10.096a14.748 14.748 0 0 1 .998-5.696a14.62 14.62 0 0 1 3.105-4.857a14.434 14.434 0 0 1 4.726-3.257a14.303 14.303 0 0 1 11.214 0Z" alt="ali"/></svg> </a>
- </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=abdillahali1234&theme=gruvbox" alt="GitHub Trophies" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdillahali1234&show_icons=true&locale=en&layout=compact" alt="abdillahali1234" /></p>
+<h3 align="left">🔗 Connect with me:</h3>
+<p align="left">
+  <a href="https://fb.com/abdullahali" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdullahali" height="30" width="40" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdillahali1234&show_icons=true&locale=en" alt="abdillahali1234" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdillahali1234&" alt="abdillahali1234" /></p>
+<h3 align="left">🚀 Languages and Tools:</h3>
+<p align="left">
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET" width="40" height="40" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
+  </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" />
+  </a>
+  <a href="https://mantine.dev/" target="_blank" rel="noreferrer">
+    <img src="https://seeklogo.com/images/M/mantine-logo-235E19C978-seeklogo.com.png" alt="Mantine" width="40" height="40" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
+  </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
+  </a>
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  </a>
+</p>
+
+---
+
+<h3 align="left">📊 GitHub Stats:</h3>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdillahali1234&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdillahali1234&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdillahali1234&" alt="GitHub Streak" />
+</p>
+
+---
+
+<h3 align="left">💼 Full-Stack Projects:</h3>
+<ul>
+  <li><strong>Education Platform</strong> – Developed a full-stack web application for managing courses, exams, and student progress using .NET Core, SQL Server, React, and Redux.</li>
+  <li><strong>E-Commerce Website</strong> – Built an e-commerce platform with a .NET Core backend, React frontend, and MongoDB for database management.</li>
+  <li><strong>Payment Integration System</strong> – Implemented a payment system using Paymob API for secure online transactions, handling both frontend and backend integrations.</li>
+</ul>
+
+<h3 align="left">💡 Technologies:</h3>
+<ul>
+  <li><strong>Frontend</strong>: React, Redux, Mantine UI, Bootstrap, Tailwind CSS, HTML5, CSS3, JavaScript, TypeScript</li>
+  <li><strong>Backend</strong>: .NET Core, C#, ASP.NET</li>
+  <li><strong>Databases</strong>: SQL Server, MongoDB</li>
+  <li><strong>Version Control</strong>: Git</li>
+  <li><strong>Payment Integration</strong>: Paymob</li>
+</ul>
