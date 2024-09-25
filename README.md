@@ -5,12 +5,12 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdillahali1234&label=Profile%20Views&color=0e75b6&style=flat" alt="abdillahali1234" />
+  <img src="https://komarev.com/ghpvc/?username=AbdullahAliSapry&label=Profile%20Views&color=0e75b6&style=flat" alt="AbdullahAliSapry" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abdillahali1234&theme=gruvbox" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=AbdullahAliSapry&theme=gruvbox" alt="GitHub Trophies" />
   </a>
 </p>
 
