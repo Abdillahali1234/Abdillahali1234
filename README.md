@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdullah Ali Sapry</h1>
 <h3 align="center">A Passionate Full-Stack Developer from Egypt</h3>
+<p align="center">
+  I'm a highly motivated Full-Stack Developer specializing in building robust web applications with a focus on clean, scalable code. With a background in .NET, C#, React, and SQL/MongoDB, I enjoy solving complex technical challenges and delivering seamless user experiences. I'm always looking for new ways to enhance my skills and contribute to innovative projects. When I'm not coding, I love sharing knowledge, mentoring, and staying up-to-date with the latest in tech.
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdillahali1234&label=Profile%20Views&color=0e75b6&style=flat" alt="abdillahali1234" />
